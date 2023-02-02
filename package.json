@@ -1,0 +1,23 @@
+{
+  "name": "testdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenBiz/TestData.git"
+  },
+  "author": "AlenBiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenBiz/TestData/issues"
+  },
+  "homepage": "https://github.com/AlenBiz/TestData#readme",
+  "devDependencies": {
+    "cypress": "^12.5.0",
+    "mysql": "^2.18.1"
+  }
+}
